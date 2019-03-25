@@ -1,15 +1,14 @@
 # Site settings
+author: Stephen Telesmanic
 title: stevO Codes
 header-img: img/home-bg.png
 email: steve.telesmanic@gmail.com
-copyright_name: stevoDEEBO
+copyright_name: Stephen Telesmanic
 description: > # this means to ignore newlines until "baseurl:"
-  steve's Adventures thru Coding
+  steve's adventures thru coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  stevoDEEBO
-learn_profile: stevoDEEBO
-email_username: steve.telesmanic@gmail.com
 
 # Build settings
 markdown: kramdown
